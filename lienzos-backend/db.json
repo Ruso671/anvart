@@ -1,0 +1,36 @@
+{
+  "users": [],
+  "products": [
+    {
+      "id": "p_algod",
+      "name": "Algod\u00f3n",
+      "base_price": 20000,
+      "options": [
+        "Enmarcado",
+        "Sin marco",
+        "Barnizado"
+      ]
+    },
+    {
+      "id": "p_lino",
+      "name": "Lino",
+      "base_price": 35000,
+      "options": [
+        "Enmarcado",
+        "Sin marco",
+        "Barnizado"
+      ]
+    },
+    {
+      "id": "p_sint",
+      "name": "Sint\u00e9tico",
+      "base_price": 15000,
+      "options": [
+        "Sin marco",
+        "Barnizado"
+      ]
+    }
+  ],
+  "orders": [],
+  "payments": []
+}
